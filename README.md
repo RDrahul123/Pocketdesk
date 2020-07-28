@@ -1,2 +1,2 @@
 # Pocketdesk
-Project for online chatting
+Project 
